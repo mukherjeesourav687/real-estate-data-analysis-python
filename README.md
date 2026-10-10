@@ -122,7 +122,8 @@ These visualisations help identify pricing trends and correlations.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Gurgaon-Real-Estate-Market-Analysis.git
+git clone https://github.com/mukherjeesourav687/real-estate-data-analysis-python.git
+cd real-estate-data-analysis-python
 ```
 
 ### 2. Install Required Libraries
@@ -144,7 +145,7 @@ python main.py
 - Premium localities have significantly higher prices and rate per sqft.
 - Ready-to-move properties generally cost more.
 - RERA-approved properties often command higher pricing.
-- Builder reputation strongly affects property prices.
+- Average prices vary across builders in this dataset; the analysis does not isolate the effect of builder reputation.
 - Larger homes are not always more expensive per sqft.
 
 ---
@@ -175,7 +176,7 @@ Through this project, I practised:
 
 Sourav Mukherjee
 
-Aspiring Data Analyst skilled in:
+Data Analytics & Technology professional working with:
 - Python
 - SQL
 - Power BI
